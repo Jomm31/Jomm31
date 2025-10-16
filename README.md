@@ -2,7 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,java,php,py,sklearn,bootstrap,sass,django,react,vite,nodejs,git,laravel,eclipse,vscode,idea)](https://skillicons.dev)
 
-## Stats
+## Stats📊
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jomm31&langs_count=10&size_weight=0.5&count_weight=0.5&layout=pie&theme=merko)](https://github.com/Jomm31/github-readme-stats)
 
 
