@@ -4,7 +4,7 @@
 
 ## Stats
 [![Jomm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jomm31)](https://github.com/Jomm31/github-readme-stats)
-[![Jomm's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatimeJomm31)](https://github.com/Jomm31/github-readme-stats)
+[![Jomm's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jomm31)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Jomm31/Jomm31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
