@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jomm31&langs_count=15&size_weight=0.5&count_weight=0.5&layout=pie&theme=merko)](https://github.com/Jomm31/github-readme-stats)
  
 
-![Pacman Contribution Graph](https://raw.githubusercontent.com/Jomm/Jomm/output/pacman-contribution-graph.svg)
+![Pacman Contribution Graph](https://raw.githubusercontent.com/Jomm31/Jomm31/output/pacman-contribution-graph.svg)
 
 ###
 <!--
