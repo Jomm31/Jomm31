@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <a href="https://www.jomm.dev/" target="blank" rel="noopener noreferrer">
+  <a href="https://www.jomm.dev/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"
          alt="Jomm.dev Portfolio" />
   </a>
