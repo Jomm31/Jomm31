@@ -1,6 +1,7 @@
 ## Hi there 👋
 
- 👨‍💻 All of my projects are available at [https://www.jomm.dev/](https://www.jomm.dev/)
+[![Jomm.dev](https://img.shields.io/badge/View%20My%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.jomm.dev/)
+
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,java,php,py,sklearn,bootstrap,sass,django,react,vite,nodejs,git,laravel,eclipse,vscode,idea)](https://skillicons.dev)
 
