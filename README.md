@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-[![Jomm.dev](https://img.shields.io/badge/View%20My%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.jomm.dev/)
+<p align="center">
+  <a href="https://www.jomm.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"
+         alt="Jomm.dev Portfolio" />
+  </a>
+</p>
+
 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,java,php,py,sklearn,bootstrap,sass,django,react,vite,nodejs,git,laravel,eclipse,vscode,idea)](https://skillicons.dev)
